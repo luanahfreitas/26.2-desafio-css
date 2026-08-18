@@ -102,10 +102,10 @@ body {
 }
 
 .form-card {
-  width: 500px;
+  width: 600px;
   max-width: 100%;
   margin: 0 auto 56px;
-  padding: 24px 28px;
+  padding: 14px 14px;
   background-color: #ffffff;
   border-radius: 8px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
@@ -166,4 +166,69 @@ textarea.autoresize::placeholder {
   padding: 18px;
   border-radius: 8px;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.card-title {
+  font-family: "Permanent Marker", cursive;
+  font-size: 20px;
+  color: #2c2c2c;
+  margin-bottom: 10px;
+  line-height: 1.2;
+}
+ 
+.card-content p {
+  font-family: "Permanent Marker", cursive;
+  font-size: 14px;
+  color: #2c2c2c;
+  line-height: 1.3;
+}
+ 
+.card-color-1 {
+  background-color: #ead3a7;
+}
+.card-color-2 {
+  background-color: #9de0f5;
+}
+.card-color-3 {
+  background-color: #ef89ba;
+}
+.card-color-4 {
+  background-color: #fae890;
+}
+.card-color-5 {
+  background-color: #abe9c1;
+}
+ 
+.card-rotation-1 {
+  transform: rotate(-4deg);
+}
+.card-rotation-2 {
+  transform: rotate(-4deg);
+}
+.card-rotation-3 {
+  transform: rotate(-6deg);
+}
+.card-rotation-4 {
+  transform: rotate(-4deg);
+}
+.card-rotation-5 {
+  transform: rotate(-2deg);
+}
+.card-rotation-6 {
+  transform: rotate(0deg);
+}
+.card-rotation-7 {
+  transform: rotate(2deg);
+}
+.card-rotation-8 {
+  transform: rotate(4deg);
+}
+.card-rotation-9 {
+  transform: rotate(6deg);
+}
+.card-rotation-10 {
+  transform: rotate(4deg);
+}
+.card-rotation-11 {
+  transform: rotate(4deg);
 }
