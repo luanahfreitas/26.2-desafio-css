@@ -5,7 +5,7 @@ NOME DOS INTEGRANTES:
 - Luana Freitas 
 - Renata Leventhal
 
-- Link do GitHub Pages: COLOQUE O LINK AQUI 
+- Link do GitHub Pages: https://luanahfreitas.github.io/26.2-desafio-css/
 
 ## Desafio CSS
 
